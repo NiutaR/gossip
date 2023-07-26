@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.32d8ea02.chunk.js": "/NiutaR/gossip.git/static/js/0.32d8ea02.chunk.js",
+    "static/js/0.32d8ea02.chunk.js.map": "/NiutaR/gossip.git/static/js/0.32d8ea02.chunk.js.map",
+    "main.css": "/NiutaR/gossip.git/static/css/main.18d02bba.chunk.css",
+    "main.js": "/NiutaR/gossip.git/static/js/main.4806094c.chunk.js",
+    "main.js.map": "/NiutaR/gossip.git/static/js/main.4806094c.chunk.js.map",
+    "runtime-main.js": "/NiutaR/gossip.git/static/js/runtime-main.db07459a.js",
+    "runtime-main.js.map": "/NiutaR/gossip.git/static/js/runtime-main.db07459a.js.map",
+    "static/css/3.acd98154.chunk.css": "/NiutaR/gossip.git/static/css/3.acd98154.chunk.css",
+    "static/js/3.0838fa03.chunk.js": "/NiutaR/gossip.git/static/js/3.0838fa03.chunk.js",
+    "static/js/3.0838fa03.chunk.js.map": "/NiutaR/gossip.git/static/js/3.0838fa03.chunk.js.map",
+    "static/css/4.7e8347d0.chunk.css": "/NiutaR/gossip.git/static/css/4.7e8347d0.chunk.css",
+    "static/js/4.715a6d5c.chunk.js": "/NiutaR/gossip.git/static/js/4.715a6d5c.chunk.js",
+    "static/js/4.715a6d5c.chunk.js.map": "/NiutaR/gossip.git/static/js/4.715a6d5c.chunk.js.map",
+    "static/css/5.2dfd727c.chunk.css": "/NiutaR/gossip.git/static/css/5.2dfd727c.chunk.css",
+    "static/js/5.c10e35f1.chunk.js": "/NiutaR/gossip.git/static/js/5.c10e35f1.chunk.js",
+    "static/js/5.c10e35f1.chunk.js.map": "/NiutaR/gossip.git/static/js/5.c10e35f1.chunk.js.map",
+    "static/js/6.e2e41ec0.chunk.js": "/NiutaR/gossip.git/static/js/6.e2e41ec0.chunk.js",
+    "static/js/6.e2e41ec0.chunk.js.map": "/NiutaR/gossip.git/static/js/6.e2e41ec0.chunk.js.map",
+    "index.html": "/NiutaR/gossip.git/index.html",
+    "static/css/3.acd98154.chunk.css.map": "/NiutaR/gossip.git/static/css/3.acd98154.chunk.css.map",
+    "static/css/4.7e8347d0.chunk.css.map": "/NiutaR/gossip.git/static/css/4.7e8347d0.chunk.css.map",
+    "static/css/5.2dfd727c.chunk.css.map": "/NiutaR/gossip.git/static/css/5.2dfd727c.chunk.css.map",
+    "static/css/main.18d02bba.chunk.css.map": "/NiutaR/gossip.git/static/css/main.18d02bba.chunk.css.map",
+    "static/js/3.0838fa03.chunk.js.LICENSE.txt": "/NiutaR/gossip.git/static/js/3.0838fa03.chunk.js.LICENSE.txt",
+    "static/media/avatar.e85cd663.png": "/NiutaR/gossip.git/static/media/avatar.e85cd663.png",
+    "static/media/background1.a39e6054.jpg": "/NiutaR/gossip.git/static/media/background1.a39e6054.jpg",
+    "static/media/background2.2a69b7b8.jpg": "/NiutaR/gossip.git/static/media/background2.2a69b7b8.jpg",
+    "static/media/preloader.5788b05c.svg": "/NiutaR/gossip.git/static/media/preloader.5788b05c.svg",
+    "static/media/user.png": "/NiutaR/gossip.git/static/media/user.96e310a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db07459a.js",
+    "static/css/3.acd98154.chunk.css",
+    "static/js/3.0838fa03.chunk.js",
+    "static/css/main.18d02bba.chunk.css",
+    "static/js/main.4806094c.chunk.js"
+  ]
+}
