@@ -21,6 +21,7 @@ export function withAuthRedirect<WCP>(WrappedComponent: React.ComponentType<WCP>
         if (!isAuth) return <Redirect to='/login'/>
 
         return <WrappedComponent {...restProps as WCP}/>
+
     }
 
     let ConnectedAuthRedirectComponent = connect<MapPropsType, DispatchPropsType, WCP, AppStateType>(
