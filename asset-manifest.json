@@ -3,13 +3,13 @@
     "static/js/0.32d8ea02.chunk.js": "/gossip/static/js/0.32d8ea02.chunk.js",
     "static/js/0.32d8ea02.chunk.js.map": "/gossip/static/js/0.32d8ea02.chunk.js.map",
     "main.css": "/gossip/static/css/main.18d02bba.chunk.css",
-    "main.js": "/gossip/static/js/main.c20a574c.chunk.js",
-    "main.js.map": "/gossip/static/js/main.c20a574c.chunk.js.map",
+    "main.js": "/gossip/static/js/main.d64b2592.chunk.js",
+    "main.js.map": "/gossip/static/js/main.d64b2592.chunk.js.map",
     "runtime-main.js": "/gossip/static/js/runtime-main.68e5b2d6.js",
     "runtime-main.js.map": "/gossip/static/js/runtime-main.68e5b2d6.js.map",
     "static/css/3.acd98154.chunk.css": "/gossip/static/css/3.acd98154.chunk.css",
-    "static/js/3.dc3cbf0b.chunk.js": "/gossip/static/js/3.dc3cbf0b.chunk.js",
-    "static/js/3.dc3cbf0b.chunk.js.map": "/gossip/static/js/3.dc3cbf0b.chunk.js.map",
+    "static/js/3.b2a0827c.chunk.js": "/gossip/static/js/3.b2a0827c.chunk.js",
+    "static/js/3.b2a0827c.chunk.js.map": "/gossip/static/js/3.b2a0827c.chunk.js.map",
     "static/css/4.7e8347d0.chunk.css": "/gossip/static/css/4.7e8347d0.chunk.css",
     "static/js/4.715a6d5c.chunk.js": "/gossip/static/js/4.715a6d5c.chunk.js",
     "static/js/4.715a6d5c.chunk.js.map": "/gossip/static/js/4.715a6d5c.chunk.js.map",
@@ -23,7 +23,7 @@
     "static/css/4.7e8347d0.chunk.css.map": "/gossip/static/css/4.7e8347d0.chunk.css.map",
     "static/css/5.2dfd727c.chunk.css.map": "/gossip/static/css/5.2dfd727c.chunk.css.map",
     "static/css/main.18d02bba.chunk.css.map": "/gossip/static/css/main.18d02bba.chunk.css.map",
-    "static/js/3.dc3cbf0b.chunk.js.LICENSE.txt": "/gossip/static/js/3.dc3cbf0b.chunk.js.LICENSE.txt",
+    "static/js/3.b2a0827c.chunk.js.LICENSE.txt": "/gossip/static/js/3.b2a0827c.chunk.js.LICENSE.txt",
     "static/media/avatar.e85cd663.png": "/gossip/static/media/avatar.e85cd663.png",
     "static/media/background1.a39e6054.jpg": "/gossip/static/media/background1.a39e6054.jpg",
     "static/media/background2.2a69b7b8.jpg": "/gossip/static/media/background2.2a69b7b8.jpg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.68e5b2d6.js",
     "static/css/3.acd98154.chunk.css",
-    "static/js/3.dc3cbf0b.chunk.js",
+    "static/js/3.b2a0827c.chunk.js",
     "static/css/main.18d02bba.chunk.css",
-    "static/js/main.c20a574c.chunk.js"
+    "static/js/main.d64b2592.chunk.js"
   ]
 }
