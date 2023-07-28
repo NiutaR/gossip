@@ -33,6 +33,7 @@ const SuspendedChatPage = withSuspense(ChatPage)
 
 
 class App extends Component<MapPropsType & DispatchPropsType> {
+
     catchAllUnhandledErrors = (e: PromiseRejectionEvent) => {
         alert('Some error occured')
     }
@@ -45,6 +46,7 @@ class App extends Component<MapPropsType & DispatchPropsType> {
     componentWillUnmount() {
         window.removeEventListener('unhandledrejection', this.catchAllUnhandledErrors)
     }
+    
 
     render() {
         if (!this.props.initialized) {

@@ -10,13 +10,12 @@ type LoginResponseDataType = {
 }
 
 export const authAPI = {
-    async me() {
-        const res = await instance.get<APIResponseType<MeResponseDataType>>(`auth/me`);
-        return res.data;
+    me() {
+        return instance.get<APIResponseType<MeResponseDataType>>(`auth/me`).then(res => res.data);
     },
-    async login(email: string, password: string, rememberMe = false, captcha: null | string = null) {
-        const res = await instance.post<APIResponseType<LoginResponseDataType, ResultCodesEnum | ResultCodeForCapcthaEnum>>(`auth/login`, { email, password, rememberMe, captcha });
-        return res.data;
+    login(email: string, password: string, rememberMe = false, captcha: null | string = null) {
+        return instance.post<APIResponseType<LoginResponseDataType, ResultCodesEnum | ResultCodeForCapcthaEnum>>(`auth/login`, {email, password, rememberMe, captcha})
+            .then(res => res.data);
     },
     logout() {
         return instance.delete(`auth/login`);
